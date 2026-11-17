@@ -1,6 +1,6 @@
 # Hi, I'm Laura 👋
 
-I'm a brand strategist, 0-to-1 builder, and marketer in San Francisco, and Co-Founder of [Circlemakers Studio](https://circlemakers.studio). I have 15+ years of experience bridging brand, performance and production for two-sided marketplaces and global enterprises.
+I'm a brand strategist, 0-to-1 builder, and marketer in San Francisco, and Co-Founder of [Circlemakers Studio](https://circlemakers.studio). I have 15+ years of experience bridging brand, growth and production for two-sided marketplaces and global enterprises.
 
 I connect narrative, people and technology, turning cultural insights into sharp creative briefs that drive commercial growth. I blend human craft and strategic judgment to produce engaging creative campaigns, using AI where it helps with scale, experimentation or effectiveness. This page collects that work.
 
@@ -22,12 +22,12 @@ Brand guidelines usually live in a PDF that people rarely open and AI tools neve
 
 ---
 
-## LinkedIn & Substack voice skill
-**A Claude skill that writes in my voice**
+## LinkedIn voice skill
+**A Claude skill that edits in my voice**
 
-A skill is a set of reusable instructions Claude follows every time. Mine holds my voice, my content pillars, the post formats that work for me, and a list of phrases I never want to see (including the usual AI tells). I give it my first drafts, voice memos or event notes from Granola, and get back edits that sound like how I write.
+A skill is a set of reusable instructions Claude follows every time. Mine includes my content pillars, the post formats that work for me, and a list of phrases I never want to see (including the usual AI tells). I give it my first drafts, voice memos or event notes from Granola, and it enables edits to come back in a way that sounds more like how I would write.
 
-- **Why it matters:** brand voice drifts slowly as teams and AI tools pull it in different directions. Voice guidelines that an AI can follow work as a brand operating system, and I use the same approach with clients.
+- **Why it matters:** brand voice drifts slowly as teams and AI tools pull it in different directions. Voice guidelines that an AI can follow work as a brand operating system, and I use the same approach with clients. Helps speed up production of weekly posts. 
 - **Tools:** Claude Skills
 
 <img width="3200" height="1920" alt="voice-skill-file" src="https://github.com/user-attachments/assets/a6d14b77-3258-49a5-9552-5d3231f3aee8" />
